@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai14.iml" filepath="$PROJECT_DIR$/.idea/Bai14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Outstanding sorting algorithm illustration/Outstanding sorting algorithm illustration.iml" filepath="$PROJECT_DIR$/Outstanding sorting algorithm illustration/Outstanding sorting algorithm illustration.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH -  Install a foam sort algorithm/TH -  Install a foam sort algorithm.iml" filepath="$PROJECT_DIR$/TH -  Install a foam sort algorithm/TH -  Install a foam sort algorithm.iml" />
     </modules>
   </component>
